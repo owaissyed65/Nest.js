@@ -18,8 +18,8 @@ To Run this project
   $ npm i -g @nestjs/cli
 ```
 ```bash
-$ nest new project-name
+  $ nest new project-name
 ```
 ```bash
-$ npm run start:dev
+  $ npm run start:dev
 ```
